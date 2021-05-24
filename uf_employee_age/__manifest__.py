@@ -22,5 +22,5 @@
     "qweb" : [],
     "auto_install": False,
     "installable": True,
-    "images":["static/description/Banner.png"],
+    "images":["static/description/main_screenshot.png"],
 }
