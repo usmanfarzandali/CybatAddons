@@ -3,7 +3,7 @@
 
 {
     "name" : "HR Employee Age",
-    "version" : "14.0.0.0",
+    "version" : "14.0.0.1",
     "category" : "Employee",
     'summary': "This odoo app helps to show employee age, On entering employee date of birth, employee age will automatically displayed.",
     "description": """
@@ -11,7 +11,7 @@
         This odoo app helps to show employee age, On entering employee date of birth, employee age will automatically displayed.
     
     """,
-    "author": "Usman Farzand",
+    "author": "Cybat",
     "website" : "https://www.cybat.net",
     "price": 0.00,
     "currency": 'EUR',
