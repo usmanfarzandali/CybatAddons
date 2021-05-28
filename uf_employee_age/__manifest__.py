@@ -13,7 +13,7 @@
     """,
     "author": "Cybat",
     "website" : "https://www.cybat.net",
-    "price": 1.00,
+    "price": 0.00,
     "currency": 'EUR',
     "depends" : ['hr'],
     "data": [
